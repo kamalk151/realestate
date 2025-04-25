@@ -19,7 +19,8 @@ const AboutUs = () => {
           style={{
             backgroundImage: `url(${aboutUsTitle})`,
             minHeight: '20em',
-            backgroundSize: 'cover'
+            backgroundSize: 'cover',
+            backgroundPosition: 'center'
           }}
         >
           <div className="page-title-content text-center">
